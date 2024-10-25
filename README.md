@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pranay Jain and I'm a Developer from Nagpur.</h2>
+<h2 align="left">Hi 👋! My name is Pranay Jain and I'm a Full Stack Developer and iOS Developer</h2>
 
 ###
 
