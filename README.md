@@ -42,5 +42,3 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/Parthjain1382/Parthjain1382/output/snake.svg" alt="Snake animation" />
-
