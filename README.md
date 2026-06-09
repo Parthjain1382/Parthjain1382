@@ -32,7 +32,3 @@
 ```text
 JavaScript · TypeScript · React · Python · Swift · C#
 ```
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Parthjain1382/Parthjain1382/output/snake.svg" alt="GitHub contribution snake" />
